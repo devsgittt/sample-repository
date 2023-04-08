@@ -3,3 +3,5 @@ i want git to commit
 change file again
 this is one more gitchange
 master branch..!
+this is added in bugfux..!
+not a master branch..!
